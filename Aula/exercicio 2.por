@@ -11,7 +11,7 @@ programa
 			escreva("VERDADEIRO")
 		} senao {
 			escreva("FALSO")
-			}
+			} // numero inteiro
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -19,7 +19,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 215; 
+ * @POSICAO-CURSOR = 221; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
